@@ -1,0 +1,46 @@
+.title {
+  border: 1px solid grey;
+  text-align: center;
+  padding: 10px;
+  margin-top: 25px;
+  margin-bottom: 25px;
+}
+
+.event__search {
+  width: 50%;
+  margin-top: 25px;
+  margin-bottom: 25px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.card__title {
+  text-align: center;
+  padding: 5px;
+}
+
+.card__container {
+  border: 1px solid grey;
+}
+
+.card__image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid grey;
+  padding: 25px;
+  height: 150px;
+  width: 150px;
+  text-align: center;
+}
+
+img {
+  vertical-align: middle;
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+.card__data > div {
+  padding-bottom: 15px;
+}
