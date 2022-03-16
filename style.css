@@ -1,0 +1,63 @@
+.title {
+  text-align: center;
+  font-size: 35px;
+  padding: 15px;
+  font-weight: 600;
+}
+.subtitle {
+  text-align: center;
+  font-size: 26px;
+  padding: 15px;
+}
+
+.event__card {
+  border: 1px solid grey;
+}
+
+.image__col {
+  display: flex;
+  justify-content: center;
+  padding: 25px;
+}
+
+.card__image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid grey;
+  padding: 25px;
+  height: 225px;
+  width: 225px;
+  text-align: center;
+}
+
+img {
+  vertical-align: middle;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+}
+
+.form {
+  padding: 25px;
+}
+
+.col-3 {
+  text-align: right;
+}
+
+.field {
+  padding-bottom: 10px;
+}
+
+.attendee__dropdown {
+  width: 80px;
+}
+
+.action__buttons {
+  padding: 10px;
+}
+
+button {
+  width: 150px;
+}
